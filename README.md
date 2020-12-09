@@ -5,3 +5,8 @@
 
 # デモ
 ![sasatora](https://user-images.githubusercontent.com/43754736/96367676-36f33680-118a-11eb-898a-ecaa2563b9be.gif)
+
+
+# Qiita
+Qiitaにて開発の詳細についてまとめましたのでよろしければ是非見てください。<br/>
+[ラズパイを使って、【ある作業】を自動化してみた](https://qiita.com/sasao3/items/aa6cc7d0f496dfd83dff)
